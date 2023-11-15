@@ -20,7 +20,7 @@ This application is covered under the MIT license.
 This project was created by David De La Rosa
 
 ## Tests
-[![Watch the video](https://youtu.be/DuNGtwzIJeA?si=6HAF8dEeoh2khVlI)]
+https://youtu.be/DuNGtwzIJeA?si=6HAF8dEeoh2khVlI
 ## Questions
 For any questions, please contact me:
 - GitHub: [daviddelarosa210](https://github.com/daviddelarosa210)
